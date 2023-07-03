@@ -1,3 +1,52 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "Utsav Kumar",
+      "age": "24",
+      "place": "Pune",
+      "profession": "Backend",
+      "batch": "WEB-13",
+      "id": 2
+    },
+    {
+      "name": "Ajay",
+      "age": "25",
+      "place": "Delhi",
+      "profession": "FSD",
+      "batch": "WEB-15",
+      "id": 3
+    },
+    {
+      "name": "Satyam Kumar",
+      "age": "22",
+      "place": "Delhi",
+      "profession": "Frontend",
+      "batch": "WEB-13",
+      "id": 4
+    },
+    {
+      "name": "Anjali Kumari",
+      "age": "20",
+      "place": "Delhi",
+      "profession": "Student",
+      "batch": "WEB-13",
+      "id": 5
+    },
+    {
+      "name": "Raj Jha",
+      "age": "17",
+      "place": "Delhi",
+      "profession": "Student",
+      "batch": "WEB-13",
+      "id": 6
+    },
+    {
+      "name": "Aditya Kumar",
+      "age": "30",
+      "place": "Goa",
+      "profession": "FSD",
+      "batch": "WEB-13",
+      "id": 7
+    }
+  ]
 }
